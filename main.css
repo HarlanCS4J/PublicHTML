@@ -21,7 +21,9 @@ nav a{
 	color: #fff;
 	text-decoration:none;
 }
-
+.trinket{
+	
+}
 .main{ width:70%;
         margin:auto;
         background-image: url('wall.jpg');
